@@ -1,0 +1,58 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-app.setting
+gradle.properties
+
+# Signing files
+*.jks
+*.keystore
+*.pem
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+.cache/
+*.log
+
+# Android Studio
+.cxx/
+.externalNativeBuild/
+captures/
+*.hprof
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# NDK
+obj/
+
+# Crashlytics/Firebase
+crashlytics-build.properties
+fabric.properties
+
+# Other
+*.orig
+*.swp
+*.tmp
+
